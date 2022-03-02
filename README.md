@@ -1,4 +1,12 @@
 ### Hi there 👋
+This is Emily's GitHub!
+😄 Pronouns:She/Her
+
+🔭 I’m currently working on a shiny app for the Video Plankton Recorder
+
+📫 Data Scientist at Bedford Institute of Oceanography
+
+🌱 I'm currently improving my SQL and Python!
 
 <!--
 **Echisholm21/echisholm21** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
