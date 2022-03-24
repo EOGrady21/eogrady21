@@ -2,7 +2,7 @@
 This is Emily's GitHub!
 😄 Pronouns:She/Her
 
-🔭 I’m currently working on a shiny app for the Video Plankton Recorder
+🔭 I’m currently working on a shiny app for the Video Plankton Recorder (VPR viewer)
 
 📫 Data Scientist at Bedford Institute of Oceanography
 
