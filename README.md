@@ -1,6 +1,6 @@
 ### Hi there 👋
 This is Emily's GitHub!
-😄 Pronouns:She/Her
+😄 Pronouns: She/Her
 
 🔭 I’m currently working on a shiny app for the Video Plankton Recorder (VPR viewer)
 
