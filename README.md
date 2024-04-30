@@ -2,7 +2,7 @@
 This is Emily's GitHub!
 😄 Pronouns: She/Her
 
-🔭 I’m currently working on Video Plankton Recorder data analysis (using `vprr`)
+🔭 I’m currently working on quality control and data submission for DFO Maritimes long term monitoring programs
 
 📫 Data Scientist at Bedford Institute of Oceanography
 
