@@ -4,9 +4,9 @@ This is Emily's GitHub!
 
 🔭 I’m currently working on quality control and data submission for DFO Maritimes long term monitoring programs
 
-📫 Data Scientist at Bedford Institute of Oceanography
+📫 Marine Data Scientist at Bedford Institute of Oceanography
 
-🌱 I'm currently improving my SQL and Python!
+✨ Working in R, Python and SQL!
 
 <!--
 **Echisholm21/echisholm21** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
