@@ -8,6 +8,9 @@ This is Emily's GitHub!
 
 ✨ Working in R, Python and SQL!
 
+⚡ https://orcid.org/0000-0002-1072-5879
+
+
 <!--
 **Echisholm21/echisholm21** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
